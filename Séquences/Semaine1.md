@@ -23,14 +23,14 @@ Ce module ICT-306 est couplé avec 4 périodes hebdomadaires de pratique (P_INNO
     - Chacun crée une story dans le projet sandbox
   
 - Lecture "Distribuée" du [manifeste Agile](../Supports/Agile-Manifesto-FR.pdf)
-- Lecture "Distribuée" du [Scrum Guide](../Supports/2020-Scrum-Guide-French.pdf)
 - Daily Scrum
 
 ### Jeudi
 
-- Daily Scrum
+- Lecture "Distribuée" du [Scrum Guide](../Supports/2020-Scrum-Guide-French.pdf)
 - Introduction à Github
   - Introduction des concepts de base avec [ce document](../Supports/Git.pdf)
 - Rôles (Belbin)
+- Constitution des équipes de projet
 - SWOT
 - SMART
