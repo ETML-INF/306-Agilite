@@ -27,10 +27,50 @@ Ce module ICT-306 est couplé avec 4 périodes hebdomadaires de pratique (P_INNO
 
 ### Jeudi
 
-- Lecture "Distribuée" du [Scrum Guide](../Supports/2020-Scrum-Guide-French.pdf)
+- Distribution des chapitres à lire du [Scrum Guide](../Supports/2020-Scrum-Guide-French.pdf):
+  - Timo : Définition de Scrum
+  - Mateja : Théorie (Transparence, Inspection, adaptation)
+  - Gabriele : Valeurs
+  - Joachim : Scrum Team
+  - Valentin : Developers + Product Owner
+  - Philippe : Scrum Master
+  - Alessio : Evénements + Sprint
+  - Lucas G. : Sprint planning
+  - Thomas : Daily Scrum + Sprint Review
+  - Marius : Sprint Retrospective
+  - Tiago : Artefacts + Product Backlog
+  - Alexy : Sprint Backlog + Incrément
+  - Lucas S. : Definition of Done
+- **Devoir pour lundi**: 
+  - Lire très attentivement la section qui vous est assignée
+  - Vous assurer que vous comprenez son contenu. **Rappel**: pour pouvoir affirmer que l'on comprend quelque chose, on doit être capable de l'expliquer
+  - Préparer un résumé à présenter en une minute (ni plus, ni moins) sur cette section. Cela peut vous obliger à rechercher des informations ailleurs (dans le document ou sur le web)
 - Introduction à Github
   - Introduction des concepts de base avec [ce document](../Supports/Git.pdf)
+  - Création d'un repo intitulé "sandbox" sur github.com, avec un Readme
+  - Clonage du repo sur la machine locale
+  - update du Readme, commit push
+  - Rotation de poste de travail
+  - Clonage, update commit, push
+  - Retour aux places initiales, pull
 - Rôles (Belbin)
-- Constitution des équipes de projet
+  - Lecture ensemble des rôles définis par Belbin dans [ce document](../Matériel/E-306-XCL01-RolesDansUnGroupe.docx)
+  - Remplissage du tableau en page 2
+  - Comparaison "à droite"
+  - Comparaison "à gauche"
+  - Réponse au [questionnaire](../Matériel/Self%20perception%20Inventory.xlsx)
+- Constitution des équipes de projet: 3 x 3 plus 2 x 2
 - SWOT
-- SMART
+  - Découverte de SWOT (FFOM) dans le [document fourni](../Matériel/e-306-etude-opportunite.docx)
+  - Effectuer l'analyse demandée dans ce même document
+  - Mise en commun des résultats
+- SMAAART
+  - Théorie/Rappel:
+    - **S**pécifique (précis, une seule chose)
+    - **M**esurable
+    - **A**cceptable (ne va pas à l'encontre de règles, de l'éthique,...)
+    - **A**dapté (sert à quelque chose dans molen contexte)
+    - **A**mbitieux (apporte de la valeur)
+    - **R**éaliste
+    - **T**emporel
+  - Exercice: Chacun formule un objectif SMAAART et un objectif volontairement non SMAAA (sans RT!) dans le document partagé sur Teams
