@@ -35,7 +35,7 @@ Ce module ICT-306 est couplé avec 4 périodes hebdomadaires de pratique (P_INNO
   - Valentin : Developers + Product Owner
   - Philippe : Scrum Master
   - Alessio : Evénements + Sprint
-  - Lucas G. : Sprint planning
+  - Lucas L. : Sprint planning
   - Thomas : Daily Scrum + Sprint Review
   - Marius : Sprint Retrospective
   - Tiago : Artefacts + Product Backlog
