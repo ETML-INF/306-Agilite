@@ -60,6 +60,11 @@ Ce module ICT-306 est couplé avec 4 périodes hebdomadaires de pratique (P_INNO
   - Comparaison "à gauche"
   - Réponse au [questionnaire](../Matériel/Self%20perception%20Inventory.xlsx)
 - Constitution des équipes de projet: 3 x 3 plus 2 x 2
+  - Lucas L, Alexy, Timo
+  - Mateja, Philippe, Alessio
+  - Gabriele, Valentin, Lucas S
+  - Tiago, Joachim
+  - Marius, Thomas
 - SWOT
   - Découverte de SWOT (FFOM) dans le [document fourni](../Matériel/e-306-etude-opportunite.docx)
   - Effectuer l'analyse demandée dans ce même document
