@@ -1,4 +1,4 @@
-## Travail Planifié, semaine du 16.1.2023
+## Travail Effectué, semaine du 16.1.2023
 
 Ce module ICT-306 est couplé avec 4 périodes hebdomadaires de pratique (P_INNO). La répartition entre théorie et pratique ne va pas correspondre exactement à ce qui figure à l'horaire. En d'autres termes: il y aura des moments de théorie durant les périodes P_INNO et il y aura des moments de pratique pure durant les périodes ICT-306.
 
@@ -78,4 +78,4 @@ Ce module ICT-306 est couplé avec 4 périodes hebdomadaires de pratique (P_INNO
     - **A**mbitieux (apporte de la valeur)
     - **R**éaliste
     - **T**emporel
-  - Exercice: Chacun formule un objectif SMAAART et un objectif volontairement non SMAAA (sans RT!) dans le document partagé sur Teams
+  - Exercice: Chacun formule un objectif SMAAART et un objectif volontairement non SMAAA (sans RT!) dans le [document](https://eduvaud.sharepoint.com/:w:/s/ETML_INF-GRP1D-22-23_Teams/EWssFQWdsZxOi-gnT1y5SU8BkKbCqrI58zAFksuafTyHaQ?e=TD9Ccd) partagé sur Teams
