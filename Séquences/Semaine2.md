@@ -12,7 +12,11 @@
         - On utilise le X300 pour enregistrer des sons  ==>  feature "Enregistrer des sons"
         - ...
     - Question: quelles sont les features de notre application Volscore ?
-        - (TBD)
+        - Noter les substitutions
+        - Noter les Temps morts
+        - Noter les points
+        - Créer les matches
+        - Afficher le résultat
     - Créer les features dans IceScrum
 - User Story
     - Chapitre Description de la [théorie simplifiée](../Supports/User%20Stories.pdf)
