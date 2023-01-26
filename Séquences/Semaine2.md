@@ -30,4 +30,5 @@
 - Mise en pratique: écriture de tests d'acceptance dans IceScrum
 - Codage de user stories **validées**
 - Rédaction/validation/codage de plus de stories si une est terminée
+- Période prévue pour le test la semaine prochaine: (tbd)
 - Daily Scrum
