@@ -1,4 +1,4 @@
-## Travail Planifié, semaine du 23.1.2023
+## Travail effectué, semaine du 23.1.2023
 
 ### Lundi 
 
@@ -27,8 +27,10 @@
 
 - Revue de ce qui a été fait lundi, prise de connaissance du programme du jour
 - Théorie sur les tests d'acceptance ([support](../Supports/User%20Stories.pdf)) 
+- Mise en place de l'environnement de travail Volscore
+  - UWamp
+  - Chargement de la base de donnée avec [ce script](https://github.com/XCarrel/Volscore/blob/main/Volscore/Resources/volscore.sql)
+  - VS 2022
 - Mise en pratique: écriture de tests d'acceptance dans IceScrum
 - Codage de user stories **validées**
-- Rédaction/validation/codage de plus de stories si une est terminée
-- Période prévue pour le test la semaine prochaine: (tbd)
-- Daily Scrum
+- Période prévue pour le test la semaine prochaine (choix à la grande majorité): jeudi 12h20
