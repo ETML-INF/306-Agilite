@@ -19,12 +19,13 @@ Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui s
 - Features
 - User Story
 - Tests d'acceptance
+- Terminologie SCRUM
 
 ### Semaine 3 (2023-05) [détails](Séquences/Semaine3.md)
 
 - Evaluation #1 (théorie)
 - Stratégie de test
-- Terminologie SCRUM
+- Kanban
 - Release
 - Sprint
 - Backlog Grooming
@@ -33,7 +34,6 @@ Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui s
 ### Semaine 4 (2023-06) [détails](Séquences/Semaine4.md)
 
 - Analyse technique (tâches)
-- Kanban
 - Journal de travail
 
 ### Semaine 5 (2023-08) [détails](Séquences/Semaine5.md)
