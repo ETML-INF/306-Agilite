@@ -1,6 +1,7 @@
 # Planning Poker  
 
-Il est très difficile d’estimer le temps de travail que demande la réalisation d’une tâche. Cela reste vrai quand on a des années d’expérience, ça l’est donc encore plus quand on n’en a pas. On va donc accepter notre inaptitude à chiffrer en heures et se contenter de comparer des tâches entre elles, par exemple : « J’estime que cette tâche va me prendre environ quatre fois plus de temps que celle-ci »
+Il est très difficile d’estimer le temps de travail que demande la réalisation d’une tâche. Cela reste vrai quand on a des années d’expérience, ça l’est donc encore plus quand on n’en a pas.  
+On va donc accepter notre inaptitude à chiffrer en heures et se contenter de comparer des tâches entre elles, par exemple : « J’estime que cette tâche va me prendre environ quatre fois plus de temps que celle-ci ».  
 Le planning poker est une façon ludique de produire des estimations sur l'effort nécessaire à la réalisation de tâches.
 
 ![](planning_poker.jpg)
@@ -25,3 +26,5 @@ Déroulement :
 7.	On répète le processus d'estimation jusqu'à l'obtention de l'unanimité.
 
 Une procédure optimisée consiste, après la première "donne", à demander aux deux acteurs ayant produit les évaluations extrêmes d'expliquer leurs points de vue respectifs. Ces explications achevées et comprises de tous, une nouvelle estimation est produite et c'est alors la moyenne arithmétique de ces estimations qui est prise en compte.
+
+_(Basé sur le contenu [Wikipedia](https://fr.wikipedia.org/wiki/Planning_poker))_
