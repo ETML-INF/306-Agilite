@@ -24,9 +24,9 @@
 - Epreuve théorique (1 période)
 - Avance sur le code de votre story
 - Stratégie de test
-    - Théorie
+    - [Théorie](../Supports/Strat%C3%A9gie%20de%20test.pdf)
     - Rédaction de la stratégie (une par groupe)
 - Planning Poker
-    - Théorie
+    - [Théorie](../Supports/Planning%20Poker.pdf)
     - Exercice avec les stories de la sandbox
 - Avance sur le code de votre story / rédaction d'une autre story
