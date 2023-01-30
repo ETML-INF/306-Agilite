@@ -8,8 +8,8 @@
     - Mettez un tag avec le nom de celui qui travaille dessus
 - Quand chaque membre du groupe a une story validée, c'est-à-dire dans le backlog
     - On active le sprint
-    - Un des membres du groupe fait un [fork](https://docs.github.com/fr/get-started/quickstart/fork-a-repo) du repo [Volscore](https://github.com/XCarrel/Volscore).
-    - Il invite les autres membres au repo forké
+    - Chacun crée un repo pour son programme
+    - Il invite les autres membres de son groupe et le prof au repo
     - Présentation du Task Board (Kanban) d'IceScrum au groupe
     - Vous commencez à réaliser la story
         - Faites des tâches
@@ -17,7 +17,6 @@
             - Notez le temps passé dessus
             - Ajoutez des commentaires
         - Faites un commit à chaque fois qu'un des tests d'acceptance devient vérifiable 
-- Daily Scrum
 
 ### Jeudi
 
