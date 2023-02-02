@@ -25,12 +25,20 @@
 - Stratégie de test
     - [Théorie](../Supports/Strat%C3%A9gie%20de%20test.pdf)
     - Rédaction de la stratégie (une par groupe)
+- Code Snippets: Ce sont des "bouts de code" quel l'on prend hors de tout contexte pour montrer rapidement un technique, une astuce.
+  - Exemple: Big numbers
 - Planning Poker
     - [Théorie](../Supports/Planning%20Poker.pdf)
     - Exercice avec des stories "déménagement", un groupe de 5 à la fois
-      - Repeindre la salle des maîtres
-      - Déplacer les casiers de la B01 en B04
-      - Reformatter tous les PC du bâtiment A
-      - Déplacer les potelets pour les mettre contre les murs
-      - Etiqueter tout le matériel informatique "cher" (écrans, PCs)
-- Avance sur le code de votre story / rédaction d'une autre story
+
+| Story | Groupe 1 | Groupe 2 | Groupe 3 |
+|---|---|---|---|
+|Repeindre la salle des maîtres|-|-|-|
+|Déplacer les casiers de la B01 en B04|-|-|-|
+|Reformatter tous les PC du bâtiment A|-|-|-|
+|Déplacer les potelets pour les mettre contre les murs|-|-|-|
+|Etiqueter tout le matériel informatique "cher" (écrans, PCs)|1|1|1|
+|Balayer toutes les classes|-|-|-|
+
+
+- Les groupes qui ne font pas le poker avancent sur le code de votre story / rédaction d'une autre story
