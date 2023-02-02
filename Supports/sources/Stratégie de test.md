@@ -8,7 +8,7 @@ Il est donc capital de faire des tests en dehors du contexte de développement e
 
 Établir une stratégie de test consiste donc à décrire les moyens et les procédures qui vont permettre de passer de l'environnement de développement à celui de production de la manière la plus sûre possible.
 
-Pour tout mandat/projet, nous définissons une stratégie de test en dévrivant :
+Pour tout mandat/projet, nous définissons une stratégie de test en décrivant :
 1.	Le matériel et logiciel tiers.
 2.	Les données de test.
 3.	Les personnes qui vont participer aux tests : camarades de classe, amis, famille, profs, …
