@@ -27,5 +27,10 @@
     - Rédaction de la stratégie (une par groupe)
 - Planning Poker
     - [Théorie](../Supports/Planning%20Poker.pdf)
-    - Exercice avec les stories de la sandbox
+    - Exercice avec des stories "déménagement", un groupe de 5 à la fois
+      - Repeindre la salle des maîtres
+      - Déplacer les casiers de la B01 en B04
+      - Reformatter tous les PC du bâtiment A
+      - Déplacer les potelets pour les mettre contre les murs
+      - Etiqueter tout le matériel informatique "cher" (écrans, PCs)
 - Avance sur le code de votre story / rédaction d'une autre story
