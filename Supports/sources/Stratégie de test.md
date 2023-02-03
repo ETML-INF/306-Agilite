@@ -15,6 +15,8 @@ Pour tout mandat/projet, nous définissons une stratégie de test en décrivant 
 4.	Le timing des activités de test
 5.	Les types et niveaux de tests effectués
 
+La stratégie de test doit au moins permettre à une personne externe au projet de comprendre le cadre dans lequel les tests d'acceptances d'une story peuvent se vérifier. Exemple: lorsqu'un test d'acceptance dit "Sur la page d'accueil, quand je clique "Login", un formulaire de connexion apparaît", le lecteur s'interroge: "Qui est 'je' dans ce test ?", "Comment est-ce qu'on arrive sur 'la page d'accueil' ?". La stratégie de test contient les réponses à ces questions.
+
 Exemple de stratégie de test pour un site web qui est le yearbook d'une école:
 
 > Pour le développement du site web, le serveur sera un wamp installé sur le même PC que celui sur lequel j’écrirai le code. Sur ce poste, je ne ferai que des tests fonctionnels.

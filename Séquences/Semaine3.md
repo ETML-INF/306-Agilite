@@ -1,4 +1,4 @@
-## Travail Planifié, semaine du 30.1.2023
+## Travail Effectué, semaine du 30.1.2023
 
 ### Lundi
 
@@ -24,7 +24,7 @@
 - Avance sur le code de votre story
 - Stratégie de test
     - [Théorie](../Supports/Strat%C3%A9gie%20de%20test.pdf)
-    - Rédaction de la stratégie (une par groupe)
+    - Rédaction de la stratégie (une par groupe, ajoutée en pièce jointe à la page d'accueil du projet IceScrum)
 - Code Snippets: Ce sont des "bouts de code" quel l'on prend hors de tout contexte pour montrer rapidement un technique, une astuce.
   - Exemple: Big numbers
 - Planning Poker
@@ -33,12 +33,12 @@
 
 | Story | Groupe 1 | Groupe 2 | Groupe 3 |
 |---|---|---|---|
-|Repeindre la salle des maîtres|-|-|-|
-|Déplacer les casiers de la B01 en B04|-|-|-|
-|Reformatter tous les PC du bâtiment A|-|-|-|
-|Déplacer les potelets pour les mettre contre les murs|-|-|-|
+|Repeindre la salle des maîtres| 5 |3|3|
+|Déplacer les casiers de la B01 en B04|5|5|1|
+|Reformatter tous les PC du bâtiment A|3|5|13|
+|Déplacer les potelets pour les mettre contre les murs|8 |20|3|
 |Etiqueter tout le matériel informatique "cher" (écrans, PCs)|1|1|1|
-|Balayer toutes les classes|-|-|-|
+|Balayer toutes les classes|1|5|1|
 
 
 - Les groupes qui ne font pas le poker avancent sur le code de votre story / rédaction d'une autre story
