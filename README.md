@@ -28,16 +28,17 @@ Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui s
 - Kanban
 - Release
 - Sprint
-- Backlog Grooming
 - Sprint planning
 
 ### Semaine 4 (2023-06) [détails](Séquences/Semaine4.md)
 
-- Analyse technique (tâches)
 - Journal de travail
+- Revue de code
 
 ### Semaine 5 (2023-08) [détails](Séquences/Semaine5.md)
 
+- Analyse technique (tâches)
+- Backlog Grooming
 - Sprint review
 - Burndown chart
 
