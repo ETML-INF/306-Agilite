@@ -34,6 +34,7 @@ Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui s
 
 - Journal de travail
 - Revue de code
+- Documentation technique (point de design spécifique)
 
 ### Semaine 5 (2023-08) [détails](Séquences/Semaine5.md)
 
