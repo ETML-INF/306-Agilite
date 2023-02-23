@@ -26,13 +26,17 @@
   - On définit les moyens techniques que l'on va utiliser pour réaliser ce que promet l'analyse fonctionnelle de la story. Exemples:
     - Les données seront stockées dans une base de données ou des fichier
     - On utilisera une librairie existante pour afficher l'interface
-- On en déduit une liste de tâche. Exemples:
-  - Installer MySQL
-  - Importer la base de données fournie
-  - Tester le logiciel fourni
-  - Coder la création d'un élément (test 1)
-  - Coder la modification d'un élément (test 2)
-  - Revue de code
+  - On en déduit une liste de tâche. Exemples:
+    - Installer MySQL
+    - Importer la base de données fournie
+    - Tester le logiciel fourni
+    - Coder la création d'un élément (test 1)
+    - Coder la modification d'un élément (test 2)
+    - Revue de code
+  - Idéalement, la liste des tâches est créée **avant** de commencer le travail. Lorsqu'on identifie une tâche **après** avoir commencé, on dira de cette tâche qu'elle est une 'surprise'. Moins on a de surprise dans notre projet, meilleur on est.
 
 - Définition du **Burndown Chart**
-- 
+  - Voir [IceScrum](https://www.icescrum.com/documentation/indicators-and-reporting/?utm_source=tool&utm_medium=link&utm_campaign=icescrum)
+  - Exercice au tableau
+
+- Objectif
