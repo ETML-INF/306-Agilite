@@ -7,22 +7,24 @@
 ### Jeudi
 
 - Bilan télétravail
-  
-|  | Timo | Mateja | Gabriele | Joachim | Marius | Valentin | Philippe | Alessio | Lucas L | Tiago | Alexy | Lucas S | Thomas |  
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| Repo est privé            | OK | OK | OK | OK | OK | / | OK | OK | OK | OK | OK | / | OK | 
-| Invitation XCL            | OK | OK | OK | OK | OK | / | OK | OK | OK | OK | OK | OK | OK |
-| Commits de code (1h30)    | OK | OK | / | / | OK | / | / | OK | / | OK | OK | OK | OK |
-| Dossier documents         | OK | OK | OK | / | OK | / | / | OK | / | ~OK | OK | / | / |
-| Journal de travail pdf    | OK | ~OK | OK | / | OK | / | / | OK | / | OK | OK | / | / |
-| Contenu JdT               | OK | ~OK | OK | ~OK | OK | ? | / | OK | OK | ~OK | OK | OK | / |
-| Notification              | OK | OK | OK | / | OK | OK | / | OK | / | OK | OK | Retard | / |
+
+|                        | Timo | Mateja | Gabriele | Joachim | Marius | Valentin | Philippe | Alessio | Lucas L | Tiago | Alexy | Lucas S | Thomas |
+| ---------------------- | ---- | ------ | -------- | ------- | ------ | -------- | -------- | ------- | ------- | ----- | ----- | ------- | ------ |
+| Repo est privé         | OK   | OK     | OK       | OK      | OK     | /        | OK       | OK      | OK      | OK    | OK    | /       | OK     |
+| Invitation XCL         | OK   | OK     | OK       | OK      | OK     | /        | OK       | OK      | OK      | OK    | OK    | OK      | OK     |
+| Commits de code (1h30) | OK   | OK     | /        | /       | OK     | /        | /        | OK      | /       | OK    | OK    | OK      | OK     |
+| Dossier documents      | OK   | OK     | OK       | /       | OK     | /        | /        | OK      | /       | ~OK   | OK    | /       | /      |
+| Journal de travail pdf | OK   | ~OK    | OK       | /       | OK     | /        | /        | OK      | /       | OK    | OK    | /       | /      |
+| Contenu JdT            | OK   | ~OK    | OK       | ~OK     | OK     | ?        | /        | OK      | OK      | ~OK   | OK    | OK      | /      |
+| Notification           | OK   | OK     | OK       | /       | OK     | OK       | /        | OK      | /       | OK    | OK    | Retard  | /      |
 
 - Les enseignements que nous tirons de ce tableau:
-  - (tbd)
-  
+  - Difficultés avec l'environnement de travail à domicile
+  - Il faut mettre en place un/des moyens de communication interne au groupe
+  - Garder la motivation, ne pas se laisser distraire
 - Revue du travail effectué [la semaine passée](Semaine4.md)
 - Définition de l'**analyse technique**
+
   - On définit les moyens techniques que l'on va utiliser pour réaliser ce que promet l'analyse fonctionnelle de la story. Exemples:
     - Les données seront stockées dans une base de données ou des fichier
     - On utilisera une librairie existante pour afficher l'interface
@@ -36,6 +38,7 @@
   - Idéalement, la liste des tâches est créée **avant** de commencer le travail. Lorsqu'on identifie une tâche **après** avoir commencé, on dira de cette tâche qu'elle est une 'surprise'. Moins on a de surprise dans notre projet, meilleur on est.
 
 - Définition du **Burndown Chart**
+
   - Voir [IceScrum](https://www.icescrum.com/documentation/indicators-and-reporting/?utm_source=tool&utm_medium=link&utm_campaign=icescrum)
   - Exercice au tableau
 
