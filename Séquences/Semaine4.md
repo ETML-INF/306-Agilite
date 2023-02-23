@@ -1,4 +1,4 @@
-## Travail Planifié, semaine du 6.2.2023
+## Travail Effectué, semaine du 6.2.2023
 
 ### Lundi
 
@@ -35,4 +35,13 @@
 - Lien entre les tests IceScrum et les commits Git
   - Vous **DEVEZ** faire un commit à chaque fois que votre code satisfait un test d'acceptance
 
-ATTENTION Lundi 20, pas de cours, mais du travail à faire à la maison.
+ATTENTION Lundi 20, pas de cours, mais du travail à faire à la maison. Les consignes ont été transmises par Teams, je les reprends ci-dessous:
+
+- Vous assurer que votre repo I306... est à jour
+- Vous assurer que votre repo est privé
+- Vous assurer que je suis invité à votre repo
+- Avancer pendant au moins 1h30 sur votre code
+- Noter le temps passé sur une ou plusieurs tâches IceScrum. Si le temps semble long par - rapport à la tâche - par exemple: 'faire la liste des joueurs', 1h -, mettez des - commentaires sur la tâche pour expliquer les raisons
+- Créer un dossier documents de projetdans votre repo
+- Mettre votre journal de travail en format pdf dans ce dossier, commit+push
+- Me notifier par message personnel Teams que vous avez fait le travail
