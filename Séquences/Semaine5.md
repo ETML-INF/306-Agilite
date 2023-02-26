@@ -1,4 +1,4 @@
-## Travail Planifié, semaine du 20.2.2023
+## Travail Effectué, semaine du 20.2.2023
 
 ### Lundi
 
@@ -37,9 +37,4 @@
     - Revue de code
   - Idéalement, la liste des tâches est créée **avant** de commencer le travail. Lorsqu'on identifie une tâche **après** avoir commencé, on dira de cette tâche qu'elle est une 'surprise'. Moins on a de surprise dans notre projet, meilleur on est.
 
-- Définition du **Burndown Chart**
 
-  - Voir [IceScrum](https://www.icescrum.com/documentation/indicators-and-reporting/?utm_source=tool&utm_medium=link&utm_campaign=icescrum)
-  - Exercice au tableau
-
-- Objectif

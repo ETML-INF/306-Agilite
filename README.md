@@ -41,17 +41,16 @@ Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui s
 - Analyse technique (tâches)
 - Backlog Grooming
 - Sprint review
-- Burndown chart
 
 ### Semaine 6 (2023-09) [détails](Séquences/Semaine6.md)
 
+- Burndown chart
+- Documentation: éléments pérenne (doc technique, installation, user guide)
 - Evaluation #2 (théorie)
-- Journal de bord (journal de projet)
-- Documentation pérenne (doc technique, installation, user guide)
 
 ### Semaine 7 (2023-10) [détails](Séquences/Semaine7.md)
 
-- Documentation de projet (contexte, ressources, objectifs, bilan, ...)
+- Documentation: éléments de projet (contexte, ressources, objectifs, bilan, journaux...)
 
 ### Semaine 8 (2023-11) [détails](Séquences/Semaine8.md)
 
