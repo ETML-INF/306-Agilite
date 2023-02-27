@@ -10,6 +10,7 @@
 
   - Voir [IceScrum](https://www.icescrum.com/documentation/indicators-and-reporting/?utm_source=tool&utm_medium=link&utm_campaign=icescrum)
   - Exercice au tableau, basé sur la liste de user stories d'un projet d'installation d'un nouvel auditoire à l'IMD (stories du projet [Auditoire](https://cloud.icescrum.com/p/AUDITOIRE/#/backlog/backlog))
+  ![](../Mat%C3%A9riel/planification%20initiale.jpg)
 
 - Présentation du [canevas de documentation de projet](../Mat%C3%A9riel/m-proj-rapport.dotx)
 
