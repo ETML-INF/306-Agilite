@@ -1,5 +1,34 @@
 ## Travail Planifié, semaine du 6.3.2023
 
-- Revue du travail effectué [la semaine passée](Semaine6.md)
+### Lundi
 
-(tbd)
+- Retour sur le test 2
+    - Globalement bien.
+    - Q1 terminologie: c'était un cadeau que tout le monde n'a pas pris !
+    - Q2 SCRUM: Ok, sauf burndown chart qui a posé problème. Raison: Je n'ai pas formulé l'énoncé de l'exercice moi-même. Il me semblait clair, mais j'ai compris qu'il ne l'était pas pour vous d'après les questions que vous m'avez posées durant le test. Conséquence: j'ai corrigé de manière très souple, les critères appliqués étant:
+        - Le graphe part d'un total de point de 382 (ou environ)
+        - La descente reflète une vélocité proche de 30 (énoncé)
+        - Nombre de sprints à 5 (énoncé) ou 9 (calculé)
+    - Q3 stories: un peu déçu. Il reste des "erreurs classiques" que j'espérais ne pas revoir:
+        - Rédiger un test avec "En tant que ..." et "pour..."
+        - Mettre "... je dois confirmer" comme résultat d'un test
+        - Confondre la structure Story (Acteur/Demande/Justification, "En tant que ... je veux ... pour ...") avec la structure Test (Contexte/Action/Resultat)
+    - Q4 Kanban: assez bien. Le calcul à faire c'était:
+        - Les stories "in Review" totalisent 24 points
+        - L'ensemble des stories totalise 123 points
+        - 24/123 = ~20%
+
+- Planification des Sprint reviews de jeudi (environ 15 minutes par groupe)
+
+- Avance sur le code
+    - Mettre à jour les fichiers `VolscoreDB.cs` et `IVolscoreDB.cs` : le score final d'un match est maintenant disponible dans la structure Game
+
+### Jeudi
+
+- Avance sur le code
+- 15h00, sprint reviews:
+    1. ...
+    1. ...
+    1. ...
+    1. ...
+    1. ...

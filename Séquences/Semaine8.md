@@ -1,7 +1,7 @@
 ## Travail Planifié, semaine du 13.3.2023
 
-- Revue du travail effectué [la semaine passée](Semaine7.md)
-
+- Consignes pour la présentation
+- Préparation de la présentation
 
 ### Jeudi
 
