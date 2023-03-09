@@ -33,8 +33,8 @@
 - 15h00, sprint reviews:
     - 15h00: Maphal
     - 15h20: Lutial
-    - 15h40: Math
-    - 16h00: Luvaga
+    - 15h40: Luvaga
+    - 16h00: Math
     - 16h20: Joti
 - En parallèle: continuer le code
 
