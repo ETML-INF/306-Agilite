@@ -36,5 +36,5 @@
     - 15h40: Math
     - 16h00: Luvaga
     - 16h20: Joti
-- En parallèle: continuer le code (sans commit)
+- En parallèle: continuer le code
 
