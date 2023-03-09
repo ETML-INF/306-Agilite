@@ -25,10 +25,15 @@
 
 ### Jeudi
 
-- Avance sur le code
+- Préparation de la SR
+  - S'assurer que le code a bien été commit/push
+  - Exécuter les tests d'acceptance
+  - Mettre les stories qui sont prêtes dans l'état 'In Review'
+
 - 15h00, sprint reviews:
-    1. ...
-    1. ...
-    1. ...
-    1. ...
-    1. ...
+    - 15h00: Maphal
+    - 15h20: Lutial
+    - 15h40: Math
+    - 16h00: Luvaga
+    - 16h20: Joti
+
