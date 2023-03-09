@@ -1,4 +1,4 @@
-## Travail Planifié, semaine du 6.3.2023
+## Travail Effectué, semaine du 6.3.2023
 
 ### Lundi
 
@@ -33,8 +33,8 @@
 - 15h00, sprint reviews:
     - 15h00: Math
     - 15h20: Lutial
-    - 15h40: Luvaga
-    - 16h00: Maphal
+    - 15h40: Luvaga -> impossible de vérifier une story, la solution VS ne charge pas
+    - 16h00: Maphal -> pas prêts!! push pas fait, tests pas vérifiés
     - 16h20: Joti
 - En parallèle: continuer le code
 
