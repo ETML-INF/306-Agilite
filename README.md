@@ -12,7 +12,7 @@ Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui s
 - Introduction à Git
 - Roles/profils (Belbin)
 - SWOT
-- SMART
+- SMAAART
 
 ### Semaine 2 (2023-04) [détails](Séquences/Semaine2.md)
 
@@ -25,32 +25,30 @@ Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui s
 
 - Evaluation #1 (théorie)
 - Stratégie de test
-- Kanban
-- Release
 - Sprint
-- Sprint planning
+- Sprint planning (poker)
 
 ### Semaine 4 (2023-06) [détails](Séquences/Semaine4.md)
 
 - Journal de travail
 - Revue de code
-- Documentation technique (point de design spécifique)
 
 ### Semaine 5 (2023-08) [détails](Séquences/Semaine5.md)
 
 - Analyse technique (tâches)
 - Backlog Grooming
-- Sprint review
 
 ### Semaine 6 (2023-09) [détails](Séquences/Semaine6.md)
 
 - Burndown chart
-- Documentation: éléments pérenne (doc technique, installation, user guide)
+- Documentation: le modèle du document
 - Evaluation #2 (théorie)
 
 ### Semaine 7 (2023-10) [détails](Séquences/Semaine7.md)
 
-- Documentation: éléments de projet (contexte, ressources, objectifs, bilan, journaux...)
+- Retours sur le tests
+- Sprint review
+- Documentation
 
 ### Semaine 8 (2023-11) [détails](Séquences/Semaine8.md)
 

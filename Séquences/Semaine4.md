@@ -34,6 +34,7 @@
 - Planning du sprint 2
 - Lien entre les tests IceScrum et les commits Git
   - Vous **DEVEZ** faire un commit à chaque fois que votre code satisfait un test d'acceptance
+- Mise en place d'[IceScrub](https://github.com/XCarrel/IceScrub) pour la génération semi-automatique du journal de travail
 
 ATTENTION Lundi 20, pas de cours, mais du travail à faire à la maison. Les consignes ont été transmises par Teams, je les reprends ci-dessous:
 

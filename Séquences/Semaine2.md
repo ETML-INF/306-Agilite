@@ -12,12 +12,10 @@
         - On utilise le X300 pour téléphoner  ==> feature: "Téléphoner"
         - On utilise le X300 pour enregistrer des sons  ==>  feature "Enregistrer des sons"
         - ...
-    - Question: quelles sont les features de notre application Volscore ?
-        - Noter les substitutions
-        - Noter les Temps morts
-        - Noter les points
-        - Créer les matches
-        - Afficher le résultat
+    - Question: quelles sont les features de notre application Volscore ? Nous nous mettons d'accord sur la liste suivante
+        - Marquer un match (points, remplacements, temps morts)
+        - Gérer les matches (CRUD)
+        - Afficher le résultat d'un match
     - Nous avons créé ces features dans IceScrum
 - User Story
     - Chapitre Description de la [théorie simplifiée](../Supports/User%20Stories.pdf)
