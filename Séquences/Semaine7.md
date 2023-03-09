@@ -31,10 +31,10 @@
   - Mettre les stories qui sont prêtes dans l'état 'In Review'
 
 - 15h00, sprint reviews:
-    - 15h00: Maphal
+    - 15h00: Math
     - 15h20: Lutial
     - 15h40: Luvaga
-    - 16h00: Math
+    - 16h00: Maphal
     - 16h20: Joti
 - En parallèle: continuer le code
 
