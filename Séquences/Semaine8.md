@@ -19,7 +19,8 @@
 - Deuxième revue du [canevas de documentation](../Matériel/m-proj-rapport.dotx)
   - Certaines sections de ce canevas peuvent être remplies de manière semi-automatique avec les données contenues dans IceScrum, comme expliqué dans [cette vidéo](https://youtu.be/l5r-8nAXs3M)
 - Consignes pour la présentation
-  - Répartissez-vous bien le temps de parole, soignez les transitions en passnt explicitement la parole au suivant
+  - Durée: minimum 10 minutes, maximum 15 minutes
+  - Répartissez-vous bien le temps de parole, soignez les transitions en passant explicitement la parole au suivant
   - PowerPoint **n'est pas une obligation** !! Un support visuel est très fortement recommandé. Il y a d'autres possibilités (Google slides, Prezi, Mentimeter, ...)
   - Soignez vos 30 premières secondes, faites qu'elles soient dynamiques, intriguantes, vivantes
   - Appuyez vous sur les contenus de votre documentation:
@@ -33,6 +34,7 @@
 
 ### Jeudi
 
+- Revue des consignes
 - Préparation de la présentation
 - Présentations (ordre tiré au sort, peut être modifié)
     - 15h00: Joti
