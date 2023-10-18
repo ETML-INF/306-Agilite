@@ -10,14 +10,13 @@ Avant de sauter dans le vif du sujet, faisons un survol des compétences visées
 
 ## 1. Vérifier la faisabilité d’un objectif 
 
-- Roles/profils (Belbin)
-- SWOT
-- SMART
+- Validation des User Stories
+- SMAAAR
 
 ## 2. Identifier un projet et définir les mesures pour le mener à bien 
 
 - Features
-- User Story
+- User Story (US)
 - Tests d'acceptance
 - Terminologie SCRUM
 - Stratégie de test
