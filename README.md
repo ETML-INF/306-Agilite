@@ -1,63 +1,56 @@
 # ICT-306 - Réaliser de petits projets dans son propre environnement professionnel
 _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R%C3%A9aliser-de-petits-projets-dans-son-propre-environnement-professionnel))_
 
-Cette version du module a été adapté pour les classes FPA. En effet, lorsqu'il est donnée aux classes CFC, ce module est accompagné de quatre périodes de pratique. Ce n'est pas le cas pour les classes FPA, il a donc fallu ajuster les contenus.
+Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui suit définit les contenus abordés au cours des 9 périodes d'une semaine entière; ils ne sont pas forcément traités durant les 5 périodes estampillées 'ICT-306'
 
- Chaque semaines, trois périodes seront consacrées à la théorie et à des petits exercices relatifs à la théorie, ou à l'évaluation. Ensuite deux périodes seront consacrées exclusivement à la mise en pratique des éléments théoriques au travers d'un projet de construction de quartier résidentiel ou pas virtuel ()
-
-### [Semaine 1 (2023-45)](Séquences/01.md)
+### Semaine 1 (2023-03) [détails](Séquences/Semaine1.md)
 
 - Présentation du module
 - Revue des modalités d'évaluation
 - Définition de l'agilité
-- Mise en place du projet de pratique
-
-#### Pratique
-
-- Mise en place de l'environnement de travail :
-  - Présentation de la t
-  - Création des groupes
-  - Création des projets IceScrum
-
-### [Semaine 2 (2023-46)](Séquences/02.md)
-
 - Daily Scrum
+- Introduction à Git
+- Roles/profils (Belbin)
+- SWOT
+- SMAAART
+
+### Semaine 2 (2023-04) [détails](Séquences/Semaine2.md)
+
 - Features
 - User Story
-- SMAAAR
 - Tests d'acceptance
 - Terminologie SCRUM
 
-### [Semaine 3 (2023-47)](Séquences/03.md)
+### Semaine 3 (2023-05) [détails](Séquences/Semaine3.md)
 
 - Evaluation #1 (théorie)
 - Stratégie de test
 - Sprint
 - Sprint planning (poker)
 
-### [Semaine 4 (2023-48)](Séquences/04.md)
+### Semaine 4 (2023-06) [détails](Séquences/Semaine4.md)
 
 - Journal de travail
 - Revue de code
 
-### [Semaine 5 (2023-49)](Séquences/05.md)
+### Semaine 5 (2023-08) [détails](Séquences/Semaine5.md)
 
 - Analyse technique (tâches)
 - Backlog Grooming
 
-### [Semaine 6 (2023-50)](Séquences/06.md)
+### Semaine 6 (2023-09) [détails](Séquences/Semaine6.md)
 
 - Burndown chart
 - Documentation: le modèle du document
 - Evaluation #2 (théorie)
 
-### [Semaine 7 (2023-51)](Séquences/07.md)
+### Semaine 7 (2023-10) [détails](Séquences/Semaine7.md)
 
 - Retours sur le tests
 - Sprint review
 - Documentation
 
-### [Semaine 8 (2024-02)](Séquences/08.md)
+### Semaine 8 (2023-11) [détails](Séquences/Semaine8.md)
 
 - Evaluation #3: présentation
 - Sprint retrospective

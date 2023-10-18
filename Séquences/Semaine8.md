@@ -1,4 +1,4 @@
-## Travail Planifié, 9.01.2024
+## Travail Planifié, semaine du 13.3.2023
 
 - Théorie: la Sprint Retrospective
   - Support: le [Scrum Guide](../Supports/2020-Scrum-Guide-French.pdf) (p.10)
