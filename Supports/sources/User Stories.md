@@ -1,7 +1,5 @@
 # User Stories
 
-Ce document décrit la manière d'utiliser des User Stories dans le cadre de notre projet de développement P_DEV.
-
 Une User Story est une description simple d’un besoin, exprimée par un utilisateur, pour déterminer les fonctionnalités à développer. Elle vise une fonctionnalité précise et décrit comment l'utilisateur interagira avec le système une fois celui-ci terminé
 
 Une User Story possède un titre (court), qui permet de la distinguer des autres sans risque de se tromper. Elle s'articule ensuite en quatre parties: **Description**, **Tests d'acceptance**, **Tâches** et **DoD**.
@@ -29,7 +27,7 @@ Variante 1, où on considère l’intention du login comme évidente:
 > En tant qu'utilisateur,  
 > je veux m'authentifier auprès du système
 
-Variante 2, où on n'utilisa pas la structure  "En tant que ..." :
+Variante 2, où on n'utilise pas la structure  "En tant que ..." :
 
 > Les utilisateurs peuvent s'authentifier sur le système
 
