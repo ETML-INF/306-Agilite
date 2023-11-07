@@ -1,0 +1,110 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Former des groupes</title>
+    <style>
+      body {
+        font-family: Arial;
+      }
+
+      input {
+        height: 30px;
+        width: 30px;
+        border: none;
+        text-align: center;
+        font-size: large;
+      }
+
+      button {
+        background-color: #24a;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        padding: 15px 32px;
+        margin: 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+
+      .row {
+        display: flex;
+        flex-direction: row;
+      }
+      .column {
+        display: flex;
+        flex-direction: column;
+      }
+      .personingroup {
+        padding: 20px;
+        margin-right: 10px;
+      }
+    </style>
+    <script>
+      var nbGroups;
+      var currentGroup = 1;
+
+      function strikeAName() {
+        els = document.getElementsByClassName("person");
+        var selel = Math.trunc(Math.random() * els.length); // Pick one to remove from list
+        pers = document.createElement("div");
+        pers.innerText = els[selel].innerText;
+        pers.classList.add("personingroup");
+        document.getElementById("group" + currentGroup).appendChild(pers);
+        currentGroup = (currentGroup % nbGroups) + 1;
+        els[selel].remove();
+
+        if (els.length > 0)
+          setTimeout(() => {
+            strikeAName(); // continue  ...
+          }, 500);
+      }
+
+      function start() {
+        document.getElementById("selection").style.display = "none";
+        nbGroups = Math.ceil(document.getElementsByClassName("person").length / nb.value);
+        for (i = 1; i <= nbGroups; i++) {
+          grp = document.createElement("div");
+          grp.id = "group" + i;
+          grp.classList.add("row");
+          grpnbr = document.createElement("h4");
+          grpnbr.innerText = "Groupe " + i;
+          grp.appendChild(grpnbr);
+          groups.appendChild(grp);
+        }
+
+        setTimeout(() => {
+          // Wait a bit before starting
+          strikeAName();
+        }, 1000);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="selection">
+      Groupes de <input id="nb" type="number" value="2" /> personnes ,
+      <button onclick="start()">On y va!</button>
+    </div>
+    <div class="row">
+      <div id="list" class="column" style="width: 400px">
+        <div class="person">Salma</div>
+        <div class="person">Fatem</div>
+        <div class="person">Anelisse</div>
+        <div class="person">Camille</div>
+        <div class="person">Samuel</div>
+        <div class="person">Harun</div>
+        <div class="person">Théo</div>
+        <div class="person">Kathleen</div>
+        <div class="person">Bilal</div>
+        <div class="person">Yann</div>
+        <div class="person">Leonar</div>
+        <div class="person">Saranee</div>
+        <div class="person">Chris</div>
+        <div class="person">Maryline</div>
+        <div class="person">Guo Yu</div>
+      </div>
+      <div id="groups" class="column"></div>
+    </div>
+  </body>
+</html>
