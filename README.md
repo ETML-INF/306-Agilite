@@ -12,13 +12,6 @@ Cette version du module a été adapté pour les classes FPA. En effet, lorsqu'i
 - Définition de l'agilité
 - Mise en place du projet de pratique
 
-#### Pratique
-
-- Mise en place de l'environnement de travail :
-  - Présentation de la t
-  - Création des groupes
-  - Création des projets IceScrum
-
 ### [Semaine 2 (2023-46)](Séquences/02.md)
 
 - Daily Scrum
