@@ -16,10 +16,9 @@ Cette version du module a été adapté pour les classes FPA. En effet, lorsqu'i
 
 - Daily Scrum
 - Features
-- User Story
 - SMAAAR
-- Tests d'acceptance
-- Terminologie SCRUM
+- DoD
+- User Story (Tests d'acceptance)
 
 ### [Semaine 3 (2023-47)](Séquences/03.md)
 
