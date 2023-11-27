@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Calendrier de l'avent Scrum</title>
+    <style>
+      body {
+        background-image: url("scrum_framework.png");
+        background-repeat: no-repeat;
+        background-size: 1200px 500px;
+      }
+      #productBacklog {
+        position: absolute;
+        top: 130px;
+        left: 40px;
+        width: 110px;
+        height: 230px;
+        background-image: url("window5.png");
+        background-size: cover;
+      }
+      #sprintBacklog {
+        position: absolute;
+        top: 280px;
+        left: 370px;
+        width: 100px;
+        height: 80px;
+        background-image: url("window17.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+      #sprintPlanning {
+        position: absolute;
+        top: 295px;
+        left: 205px;
+        width: 100px;
+        height: 80px;
+        background-image: url("window20.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+      #sprintReview {
+        position: absolute;
+        top: 290px;
+        left: 935px;
+        width: 100px;
+        height: 80px;
+        background-image: url("window24.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+      #sprintRetrospective {
+        position: absolute;
+        top: 5px;
+        left: 505px;
+        width: 95px;
+        height: 80px;
+        background-image: url("window4.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+      #increment {
+        position: absolute;
+        top: 250px;
+        left: 1085px;
+        width: 180px;
+        height: 120px;
+        background-image: url("window25.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+      #dailyScrum {
+        position: absolute;
+        top: 110px;
+        left: 755px;
+        width: 95px;
+        height: 80px;
+        background-image: url("window21.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+      #scrumTeam {
+        position: absolute;
+        top: 240px;
+        left: 620px;
+        width: 150px;
+        height: 150px;
+        background-image: url("window15.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+      #backlogGrooming {
+        position: absolute;
+        top: 15px;
+        left: 10px;
+        width: 150px;
+        height: 60px;
+        background-image: url("window12.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="productBacklog" class="killable"></div>
+    <div id="sprintBacklog" class="killable"></div>
+    <div id="sprintPlanning" class="killable"></div>
+    <div id="sprintReview" class="killable"></div>
+    <div id="sprintRetrospective" class="killable"></div>
+    <div id="increment" class="killable"></div>
+    <div id="dailyScrum" class="killable"></div>
+    <div id="scrumTeam" class="killable"></div>
+    <div id="backlogGrooming" class="killable"></div>
+  </body>
+  <script>
+    for (el of document.getElementsByClassName("killable")) {
+      el.addEventListener("click", function (e) {
+        e.target.remove();
+      });
+    }
+  </script>
+</html>
