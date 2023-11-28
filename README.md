@@ -29,17 +29,18 @@ Cette version du module a été adapté pour les classes FPA. En effet, lorsqu'i
 
 ### [Semaine 4 (2023-48)](Séquences/04.md)
 
+- Planification initiale
+- Analyse technique (tâches)
 - Journal de travail
-- Revue de code
 
 ### [Semaine 5 (2023-49)](Séquences/05.md)
 
-- Analyse technique (tâches)
 - Backlog Grooming
+- Vélocité
+- Burndown chart
 
 ### [Semaine 6 (2023-50)](Séquences/06.md)
 
-- Burndown chart
 - Documentation: le modèle du document
 - Evaluation #2 (théorie)
 
