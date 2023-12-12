@@ -23,31 +23,28 @@ Cette version du module a été adapté pour les classes FPA. En effet, lorsqu'i
 ### [Semaine 3 (2023-47)](Séquences/03.md)
 
 - Evaluation #1 (théorie)
-- Stratégie de test
 - Sprint
 - Sprint planning (poker)
 
 ### [Semaine 4 (2023-48)](Séquences/04.md)
 
 - Planification initiale
-- Analyse technique (tâches)
-- Journal de travail
+- Stratégie de test
 
 ### [Semaine 5 (2023-49)](Séquences/05.md)
 
+- Analyse technique (tâches)
+- Journal de travail
 - Backlog Grooming
-- Vélocité
-- Burndown chart
 
 ### [Semaine 6 (2023-50)](Séquences/06.md)
 
-- Documentation: le modèle du document
+- Sprint review
 - Evaluation #2 (théorie)
 
 ### [Semaine 7 (2023-51)](Séquences/07.md)
 
 - Retours sur le tests
-- Sprint review
 - Documentation
 
 ### [Semaine 8 (2024-02)](Séquences/08.md)
