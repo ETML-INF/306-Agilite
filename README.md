@@ -1,57 +1,85 @@
 # ICT-306 - Réaliser de petits projets dans son propre environnement professionnel
+
+Le module se donne en parallèle avec 3 périodes de pratique. Le planning qui suit définit les contenus abordés au cours des 8 périodes d'une semaine entière; ils ne sont pas forcément traités durant les 5 périodes estampillées 'ICT-306'
+
 _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R%C3%A9aliser-de-petits-projets-dans-son-propre-environnement-professionnel))_
 
-Le module se donne en parallèle avec 4 périodes de pratique. Le planning qui suit définit les contenus abordés au cours des 9 périodes d'une semaine entière; ils ne sont pas forcément traités durant les 5 périodes estampillées 'ICT-306'
+1. Vérifier la faisabilité d’un objectif
 
-### Semaine 1 (2023-03) [détails](Séquences/Semaine1.md)
+2. Identifier un projet et définir les mesures pour le mener à bien
 
-- Présentation du module
-- Revue des modalités d'évaluation
-- Définition de l'agilité
-- Daily Scrum
-- Introduction à Git
-- Roles/profils (Belbin)
-- SWOT
-- SMAAART
+3. Élaborer une planification de projet 
 
-### Semaine 2 (2023-04) [détails](Séquences/Semaine2.md)
+4. Attribuer des mandats 
 
-- Features
-- User Story
-- Tests d'acceptance
-- Terminologie SCRUM
+5. Établir un rapport sur l’avancement des travaux 
 
-### Semaine 3 (2023-05) [détails](Séquences/Semaine3.md)
+6. Documenter et expliquer les résultats du projet
 
-- Evaluation #1 (théorie)
-- Stratégie de test
-- Sprint
-- Sprint planning (poker)
+7. Passer en revue le déroulement du projet avec les membres de l’équipe
 
-### Semaine 4 (2023-06) [détails](Séquences/Semaine4.md)
 
-- Journal de travail
-- Revue de code
+### Semaine 1 (2024-03) [détails](Séquences/2024-03.md)
 
-### Semaine 5 (2023-08) [détails](Séquences/Semaine5.md)
+- On explique le but de ce module ainsi que la manière dont il va se dérouler et comment il sera évalué
+- On expérimente la difficulté qu'il y a à faire réaliser quelque chose qu'on veut par quelqu'un d'autre
+- On découvre le projet qui nous servira de fil rouge tout au long du trimestre : l'aménagement virtuel d'un immeuble de cinq étages
+- On découvre l'outil avec lequel on va le faire
+- On commence tout de suite à construire la documentation à remettre en fin de projet
+- On s'organise pour partager de manière efficace les résultats de notre travail
 
-- Analyse technique (tâches)
-- Backlog Grooming
+(Repository, Introduction à Git, SWOT (?))
 
-### Semaine 6 (2023-09) [détails](Séquences/Semaine6.md)
+### Semaine 2 (2023-04) [détails](Séquences/2024-04.md)
 
-- Burndown chart
-- Documentation: le modèle du document
-- Evaluation #2 (théorie)
+- On découvre une manière de mieux formuler nos attentes : les User Story
+- On s'exerce à rédiger des User Story et on regarde si cela fonctionne effectivement mieux ou pas
+- On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
 
-### Semaine 7 (2023-10) [détails](Séquences/Semaine7.md)
+(User Story, SMAAAR, Tests d'acceptance, assertion)
 
-- Retours sur le tests
-- Sprint review
-- Documentation
+### Semaine 3 (2023-05) [détails](Séquences/2024-05.md)
 
-### Semaine 8 (2023-11) [détails](Séquences/Semaine8.md)
+- On évalue notre habileté à écrire des User Story (Test #1)
+- On découvre les principes de l'agilité.
+- On s'organise en équipe Scrum.
+- On prend en mains l'outil qui va nous permettre de gérer notre projet (IceScrum)
 
-- Evaluation #3: présentation
-- Sprint retrospective
+(Jeu des jetons, Définition de l'agilité, Features, Roles/profils (Belbin))
+
+### Semaine 4 (2023-06) [détails](Séquences/2024-06.md)
+
+- On a une surprise...
+- On clarifie
+- On planifie
+- On se prépare à construire
+
+(Terminologie SCRUM, Sprint, Sprint planning (poker), Journal de travail)
+
+### Semaine 5 (2023-08) [détails](Séquences/2024-08.md)
+
+- On se remet en route après les vacances
+- On exécute le sprint numéro 1
+- On planifie le sprint numéro 2
+
+(Sprint review, Analyse technique (tâches), Backlog Grooming, Daily Scrum)
+
+### Semaine 6 (2023-09) [détails](Séquences/2024-09.md)
+
+- On exécute le sprint numéro 2
+- On planifie le sprint numéro 3
+
+(Burndown chart, vélocité, Stratégie de test)
+
+### Semaine 7 (2023-10) [détails](Séquences/2024-10.md)
+
+- On évalue l'état de nos connaissances (Test #2)
+- On exécute le sprint numéro 3
+- On planifie le sprint numéro 4
+
+### Semaine 8 (2023-11) [détails](Séquences/2024-11.md)
+
+- On exécute le sprint numéro 4
+- On fait le bilan final
+- On livre la marchandise
 

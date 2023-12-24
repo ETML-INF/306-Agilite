@@ -39,3 +39,4 @@ Nouveau déroulement:
 7. Les ouvriers effectuent le premier sprint.
 8. On procède à la sprint review, puis à la retrospective, puis au planning du sprint suivant
 9. Durant le deuxième sprint, les ouvriers produisent également la documentation descriptive.
+10. On commence par la doc. Chaque semaine il doit y avoir un incrément de la documentation. Chaque livraison fait l'objet d'un fichier Delta
