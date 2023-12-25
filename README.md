@@ -19,18 +19,18 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 7. Passer en revue le déroulement du projet avec les membres de l’équipe
 
 
-### Semaine 1 (2024-03) [détails](Séquences/2024-03.md)
+### [Semaine 1](Séquences/2024-03.md) (2024-03)
 
 - On explique le but de ce module ainsi que la manière dont il va se dérouler et comment il sera évalué
 - On expérimente la difficulté qu'il y a à faire réaliser quelque chose qu'on veut par quelqu'un d'autre
 - On découvre le projet qui nous servira de fil rouge tout au long du trimestre : l'aménagement virtuel d'un immeuble de cinq étages
-- On découvre l'outil avec lequel on va le faire
+- On découvre l'outil avec lequel on va le faire (sweethome3D)
 - On commence tout de suite à construire la documentation à remettre en fin de projet
 - On s'organise pour partager de manière efficace les résultats de notre travail
 
 (Repository, Introduction à Git, SWOT (?))
 
-### Semaine 2 (2023-04) [détails](Séquences/2024-04.md)
+### [Semaine 2](Séquences/2024-04.md) (2024-04) 
 
 - On découvre une manière de mieux formuler nos attentes : les User Story
 - On s'exerce à rédiger des User Story et on regarde si cela fonctionne effectivement mieux ou pas
@@ -38,7 +38,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 (User Story, SMAAAR, Tests d'acceptance, assertion)
 
-### Semaine 3 (2023-05) [détails](Séquences/2024-05.md)
+### [Semaine 3](Séquences/2024-05.md) (2024-05)
 
 - On évalue notre habileté à écrire des User Story (Test #1)
 - On découvre les principes de l'agilité.
@@ -47,7 +47,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 (Jeu des jetons, Définition de l'agilité, Features, Roles/profils (Belbin))
 
-### Semaine 4 (2023-06) [détails](Séquences/2024-06.md)
+### [Semaine 4](Séquences/2024-06.md) (2024-06)
 
 - On a une surprise...
 - On clarifie
@@ -56,7 +56,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 (Terminologie SCRUM, Sprint, Sprint planning (poker), Journal de travail)
 
-### Semaine 5 (2023-08) [détails](Séquences/2024-08.md)
+### [Semaine 5](Séquences/2024-08.md) (2024-08)
 
 - On se remet en route après les vacances
 - On exécute le sprint numéro 1
@@ -64,20 +64,20 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 (Sprint review, Analyse technique (tâches), Backlog Grooming, Daily Scrum)
 
-### Semaine 6 (2023-09) [détails](Séquences/2024-09.md)
+### [Semaine 6](Séquences/2024-09.md) (2024-09)
 
 - On exécute le sprint numéro 2
 - On planifie le sprint numéro 3
 
 (Burndown chart, vélocité, Stratégie de test)
 
-### Semaine 7 (2023-10) [détails](Séquences/2024-10.md)
+### [Semaine 7](Séquences/2024-10.md) (2024-10)
 
 - On évalue l'état de nos connaissances (Test #2)
 - On exécute le sprint numéro 3
 - On planifie le sprint numéro 4
 
-### Semaine 8 (2023-11) [détails](Séquences/2024-11.md)
+### [Semaine 8](Séquences/2024-11.md) (2024-11)
 
 - On exécute le sprint numéro 4
 - On fait le bilan final
