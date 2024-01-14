@@ -28,7 +28,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On commence tout de suite à construire la documentation à remettre en fin de projet
 - On s'organise pour partager de manière efficace les résultats de notre travail
 
-(Repository, Introduction à Git, SWOT (?))
+(Repository, Introduction à Git, SWOT)
 
 ### [Semaine 2](Séquences/2024-04.md) (2024-04) 
 
@@ -40,7 +40,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 3](Séquences/2024-05.md) (2024-05)
 
-- On évalue notre habileté à écrire des User Story (Test #1)
+- On évalue (entre autres) notre habileté à écrire des User Story (Test #1)
 - On découvre les principes de l'agilité.
 - On s'organise en équipe Scrum.
 - On prend en mains l'outil qui va nous permettre de gérer notre projet (IceScrum)
