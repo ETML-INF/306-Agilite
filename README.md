@@ -49,7 +49,6 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 4](Séquences/2024-06.md) (2024-06)
 
-- On a une surprise...
 - On clarifie
 - On planifie
 - On se prépare à construire
