@@ -34,18 +34,18 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On découvre une manière de mieux formuler nos attentes : les User Story
 - On s'exerce à rédiger des User Story et on regarde si cela fonctionne effectivement mieux ou pas
 - On commence déjà à construire la documentation à remettre en fin de projet
+- On prend en mains l'outil qui va nous permettre de gérer notre projet (IceScrum)
 
 (User Story, SMAAAR, Tests d'acceptance, assertion)
 
 ### [Semaine 3](Séquences/2024-05.md) (2024-05)
 
-- On évalue (entre autres) notre habileté à écrire des User Story (Test #1)
-- On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
+- On évalue notre habileté à écrire des User Story et nos connaissances SWOT (Test #1)
 - On découvre les principes de l'agilité.
 - On s'organise en équipe Scrum.
-- On prend en mains l'outil qui va nous permettre de gérer notre projet (IceScrum)
+- On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
 
-(Jeu des jetons, Définition de l'agilité, Features, Roles/profils (Belbin))
+(Jeu des jetons, Définition de l'agilité, Scrum Guide, Features)
 
 ### [Semaine 4](Séquences/2024-06.md) (2024-06)
 
