@@ -13,6 +13,7 @@
 - Une personne chronomètre : 
   1. Le temps de la première phase
   2. L'apparition de valeur en bout de chaîne. On note le temps exact (temps intermédiaire sur app chronomètre) de chaque arrivée de jeton
+  3. Le temps de traitement total
 
 ## Premier tour : le projet classique
 
@@ -55,7 +56,7 @@ Les jetons sont traités dans l'ordre d'arrivée à l'entrée (aléatoire).
 - Cela présente l'avantage que, si besoin, on peut changer son fusil d’épaule en cours de route, vu que la quantité de travail commencé est plus faible
 - On ne va pas moins vite (à vérifier)
 
-## Quatrième tour : le projet agile
+## Quatrième tour : priorités
 
 En fait on n’a jamais le temps dans la vraie vie de tout faire. On doit
 se focaliser sur la valeur. On doit prioriser celle-ci. 
