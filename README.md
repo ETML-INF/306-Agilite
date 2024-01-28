@@ -42,10 +42,9 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 - On évalue notre habileté à écrire des User Story et nos connaissances SWOT (Test #1)
 - On découvre les principes de l'agilité.
-- On s'organise en équipe Scrum.
 - On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
 
-(Jeu des jetons, Définition de l'agilité, Scrum Guide, Features)
+(Jeu des jetons, Définition de l'agilité, Manifeste Agile, Features)
 
 ### [Semaine 4](Séquences/2024-06.md) (2024-06)
 
@@ -53,7 +52,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On planifie
 - On se prépare à construire
 
-(Terminologie SCRUM, Sprint, Sprint planning (poker), Journal de travail)
+(Scrum Guide, Terminologie SCRUM, Sprint, Sprint planning (poker), Journal de travail)
 
 ### [Semaine 5](Séquences/2024-08.md) (2024-08)
 
