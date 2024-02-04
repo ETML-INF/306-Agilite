@@ -56,6 +56,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 5](Séquences/2024-08.md) (2024-08)
 
+- On ne fait pas grand chose du côté théorie, car le cours est supprimé (concours d'admission)
 - On se remet en route après les vacances
 - On exécute le sprint numéro 1
 - On planifie le sprint numéro 2
@@ -64,6 +65,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 6](Séquences/2024-09.md) (2024-09)
 
+- On fait la dernière partie du test 1
 - On exécute le sprint numéro 2
 - On planifie le sprint numéro 3
 
