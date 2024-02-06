@@ -58,28 +58,31 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 - On ne fait pas grand chose du côté théorie, car le cours est supprimé (concours d'admission)
 - On se remet en route après les vacances
-- On exécute le sprint numéro 1
-- On planifie le sprint numéro 2
+- On exécute le sprint numéro 2
 
-(Sprint review, Analyse technique (tâches), Backlog Grooming, Daily Scrum)
 
 ### [Semaine 6](Séquences/2024-09.md) (2024-09)
 
 - On fait la dernière partie du test 1
-- On exécute le sprint numéro 2
 - On planifie le sprint numéro 3
+- On exécute le sprint numéro 3
 
-(Burndown chart, vélocité, Stratégie de test)
+(Tests, Stratégie de test)
 
 ### [Semaine 7](Séquences/2024-10.md) (2024-10)
 
 - On évalue l'état de nos connaissances (Test #2)
-- On exécute le sprint numéro 3
 - On planifie le sprint numéro 4
+- On exécute le sprint numéro 4
+
+(Sprint review, Analyse technique (tâches), Backlog Grooming, Daily Scrum)
 
 ### [Semaine 8](Séquences/2024-11.md) (2024-11)
 
-- On exécute le sprint numéro 4
+- On planifie le sprint numéro 5
+- On exécute le sprint numéro 5
 - On fait le bilan final
 - On livre la marchandise
+
+(Burndown chart, vélocité)
 
