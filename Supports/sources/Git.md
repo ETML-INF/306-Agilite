@@ -100,7 +100,7 @@ Exemples
 
 | Nom | Explication |
 |---|---|
-|`chore: Move pictures to own folder` | Un comité qui déplace une série d'images dans un sous dossier |
+|`chore: Move pictures to own folder` | Un commit qui déplace une série d'images dans un sous dossier |
 | `chore(npm): Remove unused dependencies` | Ce commit supprime des références à des dépendances gérée par npm et dont on n'a plus besoin|
 |`feat(user):Save user's birthdate`| Ce commit rajoute au site la possibilité d'enregistrer la date de naissance d'un utilisateur.|
 |`doc(database):Change user-role relationship to n-m`|Ce commit contient une nouvelle version du MCD et du MLD dans laquelle  un utilisateur peut avoir plusieurs rôles|
