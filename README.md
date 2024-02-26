@@ -68,18 +68,18 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On planifie le sprint numéro 3
 - On exécute le sprint numéro 3
 
-(Sprint review, Sprint retrospective, Intégration)
+(Sprint review, Sprint retrospective)
 
 ### [Semaine 7](Séquences/2024-10.md) (2024-10)
 
-- On évalue l'état de nos connaissances (Test #2)
 - On planifie le sprint numéro 4
 - On exécute le sprint numéro 4
 
-(Analyse technique (tâches), Tests, Stratégie de test)
+(Intégration, Tests, Stratégie de test)
 
 ### [Semaine 8](Séquences/2024-11.md) (2024-11)
 
+- On évalue l'état de nos connaissances (Test #2)
 - On planifie le sprint numéro 5
 - On exécute le sprint numéro 5
 - On fait le bilan final
