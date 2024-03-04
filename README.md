@@ -75,8 +75,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On planifie le sprint numéro 4
 - On exécute le sprint numéro 4
 
-(Intégration, Tests, Stratégie de test)
-(Burndown chart, vélocité)
+(Intégration, Burnup/Burndown chart, vélocité)
 
 ### [Semaine 8](Séquences/2024-11.md) (2024-11)
 
