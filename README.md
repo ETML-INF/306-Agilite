@@ -23,7 +23,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 - On explique le but de ce module ainsi que la manière dont il va se dérouler et comment il sera évalué
 - On expérimente la difficulté qu'il y a à faire réaliser quelque chose qu'on veut par quelqu'un d'autre
-- On découvre le projet qui nous servira de fil rouge tout au long du trimestre : l'aménagement virtuel d'un immeuble de cinq étages
+- On découvre le projet qui nous servira de fil rouge tout au long du trimestre : proposer une maquette pour un nouveau bâtiment sur le site de Vennes
 - On découvre l'outil avec lequel on va le faire (sweethome3D)
 - On s'organise pour partager de manière efficace les résultats de notre travail
 
