@@ -88,5 +88,3 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On termine le sprint numéro 5
 - On fait le bilan final
 - On livre la marchandise
-
-
