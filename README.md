@@ -45,7 +45,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On comprend les attentes en termes de documentation
 - On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
 
-(Jeu des jetons, Définition de l'agilité, Manifeste Agile, Features)
+(Jeu des jetons, Définition de l'agilité, Manifeste Agile, Modèle de rapport)
 
 ### [Semaine 4](Séquences/2024-17.md) (2024-17)
 
