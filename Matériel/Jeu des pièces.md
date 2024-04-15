@@ -9,11 +9,11 @@
   3. Le déposer sur la table en le retournant
   4. Le faire glisser vers l'étape suivante
 - Le travail global consiste à faire traiter toutes les jetons par tous les travailleurs.
-- Une personne prend livraison du travail au bout des chaînes. Elle a la responsabilité de conserver l'ordre d'arrivée intact.
-- Une personne chronomètre : 
-  1. Le temps de la première phase
-  2. L'apparition de valeur en bout de chaîne. On note le temps exact (temps intermédiaire sur app chronomètre) de chaque arrivée de jeton
-  3. Le temps de traitement total
+- Une personne fournit le travail aux travailleurs en bout de chaîne
+- Une personne prend livraison du travail au bout des chaînes. Elle a la responsabilité de 
+  - Conserver l'ordre d'arrivée intact.
+  - Chronométrer l'apparition de valeur en bout de chaîne: il note le temps exact  de chaque arrivée de jeton (temps intermédiaire sur app chronomètre)
+- Une personne reporte les temps dans la feuille Excel
 
 ## Premier tour : le projet classique
 
