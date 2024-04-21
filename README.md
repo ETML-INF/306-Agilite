@@ -57,10 +57,10 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 5](Séquences/2024-18.md) (2024-18)
 
-- On ne fait pas grand chose du côté théorie, car le cours est supprimé (concours d'admission)
 - On se remet en route après les vacances
-- On exécute le sprint numéro 2
+- On exécute le sprint numéro 2, le premier sprint de construction
 
+(Intégration, Burnup/Burndown chart, vélocité)
 
 ### [Semaine 6](Séquences/2024-19.md) (2024-19)
 
@@ -73,14 +73,14 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 7](Séquences/2024-20.md) (2024-20)
 
+- On évalue l'état de nos connaissances (Test #2)
 - On planifie le sprint numéro 4
 - On exécute le sprint numéro 4
 
-(Intégration, Burnup/Burndown chart, vélocité)
 
 ### [Semaine 8](Séquences/2024-21.md) (2024-21)
 
-- On évalue l'état de nos connaissances (Test #2)
+- On ne fait pas grand chose du côté théorie, car le lundi est ferié (Pentecôte)
 - On planifie le sprint numéro 5
 - On exécute le sprint numéro 5
 
