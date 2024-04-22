@@ -57,7 +57,6 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 5](Séquences/2024-18.md) (2024-18)
 
-- On se remet en route après les vacances
 - On exécute le sprint numéro 2, le premier sprint de construction
 
 (Intégration, Burnup/Burndown chart, vélocité)
