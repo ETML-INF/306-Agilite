@@ -43,7 +43,6 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On évalue notre habileté à écrire des User Story et nos connaissances SWOT (Test #1)
 - On découvre les principes de l'agilité.
 - On comprend les attentes en termes de documentation
-- On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
 
 (Jeu des jetons, Définition de l'agilité, Manifeste Agile, Modèle de rapport)
 
@@ -57,9 +56,11 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 5](Séquences/2024-18.md) (2024-18)
 
+- On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
+- On apprend à finir un sprint
 - On exécute le sprint numéro 2, le premier sprint de construction
 
-(Intégration, Burnup/Burndown chart, vélocité)
+(Sprint review, Sprint retrospective)
 
 ### [Semaine 6](Séquences/2024-19.md) (2024-19)
 
@@ -68,7 +69,7 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On planifie le sprint numéro 3
 - On exécute le sprint numéro 3
 
-(Sprint review, Sprint retrospective)
+(Intégration, Burnup/Burndown chart, vélocité)
 
 ### [Semaine 7](Séquences/2024-20.md) (2024-20)
 
