@@ -69,17 +69,18 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 - On planifie le sprint numéro 3
 - On exécute le sprint numéro 3
 
-(Intégration, Burnup/Burndown chart, vélocité)
+(Intégration, Types et niveaux de tests, Stratégie de test)
 
 ### [Semaine 7](Séquences/2024-20.md) (2024-20)
 
-- On évalue l'état de nos connaissances (Test #2)
 - On planifie le sprint numéro 4
 - On exécute le sprint numéro 4
 
+(Vélocité, Burnup/Burndown chart)
 
 ### [Semaine 8](Séquences/2024-21.md) (2024-21)
 
+- On évalue l'état de nos connaissances (Test #2)
 - On ne fait pas grand chose du côté théorie, car le lundi est ferié (Pentecôte)
 - On planifie le sprint numéro 5
 - On exécute le sprint numéro 5
