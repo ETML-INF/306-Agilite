@@ -3,7 +3,7 @@ L'évaluation est basée sur 3 Eléments:
 | Forme | Portée | Durée | Moyens d'aide | Pondération | Semaine |
 |---|---|---|---|---|---|
 |Travail écrit | Apports théoriques initiaux| 1p.| aide mémoire personnel: une feuille A4| 25%|3|
-|Travail écrit | Analyse et planification | 2p | aide mémoire personnel: une feuille A4 | 40% | 8 |
+|Travail écrit | Analyse et planification | 2p | aide mémoire personnel: une feuille A4 | 40% | 9 |
 |Documentation| Ensemble du projet |  | Libre | 35% | 9 |
 
 Compléments d'information:
