@@ -80,13 +80,13 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 8](Séquences/2024-21.md) (2024-21)
 
-- On évalue l'état de nos connaissances (Test #2)
 - On ne fait pas grand chose du côté théorie, car le lundi est ferié (Pentecôte)
 - On planifie le sprint numéro 5
 - On exécute le sprint numéro 5
 
 ### [Semaine 9](Séquences/2024-22.md) (2024-22)
 
+- On évalue l'état de nos connaissances (Test #2)
 - On termine le sprint numéro 5
 - On fait le bilan final
 - On livre la marchandise
