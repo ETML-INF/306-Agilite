@@ -8,6 +8,8 @@ Dans le feed-back qu'ils m'ont donné, ils ont relevé le stress lié aux livrai
 
 Dans le deuxième test, la qualité des burn up charts rendus était vraiment mauvaise. J'ai beau me remettre en question, je ne vois pas comment j'aurais pu faire autrement sans procéder de manière ultra classique théorie exercice corrigé. Je leur ai  demandé de faire le graphique à partir des données de leur projet, ils sont restés bloqués. Je leur ai généré un tableau des données absolument similaire à celui du test en guise d'exercice, il ne s'y sont pas intéressés. Il n'y avait que deux ou trois élèves attentifs au moment où j'ai fait la correction au tableau. Les autres ont choisi de ne pas écouter.
 
+L'introduction de la méthode pomodoro a été une très bonne chose à mon avis. Les élèves ont bien joué le jeu et je pense qu'eux-mêmes se sont rendus compte du bénéfice que de tels moment de concentration leur apportait.
+
 Je pense être arrivé au bout de l'idée sweet Home 3D. Cela a mieux fonctionné que les fois précédentes avec un seul immeuble, mais il reste malgré tout des problèmes importants :
   1. Les élèves jouent à construire plutôt qu'à gérer leurs projets. J'ai dû constamment surveiller et rappeler à l'ordre des élèves qui passaient leur temps à construire un truc fun durant des moments où ils auraient dû travailler. Exemple : la réalisation du burnup chart
   2. La stabilité de l'application. Suivre les modèles choisi par les élèves, leur fichier devenait tellement lourd que l'application n'arrivait plus à gérer l'intégration de plusieurs pièces dans un seul fichier.
