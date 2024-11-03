@@ -12,9 +12,9 @@ L'évaluation est basée sur 3 Eléments:
 
 Compléments d'information:
 - Une absence lors du test pratique doit impérativement être justifiée par un document officiel (certificat médical, convocation, ...). Le rattrapage se fait un samedi matin
-- Une absence lors d'un check théorique peut être rattrapée à votre retour en classe. Cela ne se fait que sur demande écrite (email) envoyée dès votre retour en classe. Le rattrapage peut prendre une forme différente, comme par exemple un entretien en tête-à-tête.
+- Une absence lors d'un check théorique peut être rattrapée. Cela ne se fait que sur demande écrite (email) envoyée dès votre retour en classe. Le rattrapage peut prendre une forme différente, comme par exemple un entretien en tête-à-tête.
 - Les aides mémoire personnels utilisés lors des tests théoriques seront remis avec le test.
-- Si une remédiation devait s'avérer nécessaire:
+- Si une remédiation devait s'avérer nécessaire et justifiée:
   - Elle se ferait un samedi matin
   - Elle consisterait à répondre à une sélection de quelques questions parmi l'ensemble des checkpoints
   - Elle ne peut compenser qu'un maximum de 20% de la note (donc 1 point)
