@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reconstituez le schéma</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f0f0f0;
+        overflow: hidden;
+      }
+      #image-container {
+        position: relative;
+        width: 90%; /* Le conteneur prend 90 % de la largeur de la fenêtre */
+        height: 90%; /* Le conteneur prend 90 % de la hauteur de la fenêtre */
+        border: 1px solid #ccc; /* Ajout d'une bordure pour mieux visualiser le conteneur */
+      }
+      .draggable {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        cursor: grab;
+        transform-origin: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="image-container">
+      <!-- Les images seront chargées ici via JavaScript -->
+    </div>
+
+    <script>
+      const imageContainer = document.getElementById("image-container");
+
+      // Ajouter les images dans le conteneur
+      for (let i = 1; i <= 26; i++) {
+        const img = document.createElement("img");
+        img.src = `piece${i.toString().padStart(2, "0")}.png`;
+        img.classList.add("draggable");
+        img.draggable = false; // Désactiver le drag natif
+
+        // Charger l'image pour obtenir ses dimensions originales
+        img.onload = () => {
+          img.style.width = `${img.naturalWidth * 0.6}px`; // Réduire la largeur de 20%
+          img.style.height = `${img.naturalHeight * 0.6}px`; // Réduire la hauteur de 20%
+          img.style.zIndex = 5000 - img.style.width; // Les Image, les plus larges vont au fond
+        };
+
+        let offsetX = 0;
+        let offsetY = 0;
+
+        img.addEventListener("mousedown", (e) => {
+          img.style.cursor = "grabbing";
+          const rect = img.getBoundingClientRect();
+          offsetX = e.clientX - rect.left;
+          offsetY = e.clientY - rect.top;
+
+          const onMouseMove = (e) => {
+            const containerRect = imageContainer.getBoundingClientRect();
+            img.style.left = `${e.clientX - containerRect.left - offsetX}px`;
+            img.style.top = `${e.clientY - containerRect.top - offsetY}px`;
+            img.style.transform = "translate(0, 0)";
+          };
+
+          const onMouseUp = () => {
+            img.style.cursor = "grab";
+            document.removeEventListener("mousemove", onMouseMove);
+            document.removeEventListener("mouseup", onMouseUp);
+          };
+
+          document.addEventListener("mousemove", onMouseMove);
+          document.addEventListener("mouseup", onMouseUp);
+        });
+
+        imageContainer.appendChild(img);
+      }
+    </script>
+  </body>
+</html>
