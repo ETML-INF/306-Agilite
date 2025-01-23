@@ -70,21 +70,25 @@ En quelques mots, le nom est constitué de trois parties:
 
 `type(scope): effet`
 
-Le **type** décrit l’origine du changement. Il peut prendre différentes valeurs :
+Le **type** décrit l’origine du changement. Il doit être une des valeurs suivantes :
 
-- **feat**: Ajout d’une nouvelle fonctionnalité;
-- **fix**: Correction d’un bug;
-- **build**: Changement lié au système de build ou qui concerne les dépendances (npm, grunt, gulp, webpack, etc.).
-- **docs**: Ajout ou modification de documentation (README, JSdoc, etc.);
-- **perf**: Amélioration des performances;
-- **refactor**: Modification n’ajoutant pas de fonctionnalités ni de correction de bug (renommage d’une variable, suppression de code redondant, simplification du code, etc.);
-- **test**: Ajout ou modification de tests;
-- **revert**: Annulation d’un précédent commit;
-- **chore**: Toute autre modification (mise à jour de version par exemple).
-- **UI**: Modification de l'apparence de l'interface utilisateur (couleurs, police de caractères, etc.)
-- **UX**: Modification du fonctionnement de l'interface utilisateur (remplacement de boutons par une liste déroulante, popup de validation, etc.)  
-  
-Cette liste n'est ni imposée, ni exhaustive. Elle est constitué selon les pratiques que l'on souhaite mettre en œuvre dans notre équipe.
+| Type | Pour | Artefact
+|---|---|---|
+|**code**| Ajout d’une nouvelle fonctionnalité | code source
+|**refact**| Refactorisation: modification n’ajoutant pas de fonctionnalités ni de correction de bug (renommage d’une variable, suppression de code redondant, simplification du code, ...)| code source
+|**fix**| Correction d’un bug | code source
+|**UI**| Modification de l'apparence de l'interface utilisateur (couleurs, police de caractères, ...)| code, html, css
+|**UX**| Modification du fonctionnement de l'interface utilisateur (remplacement de boutons par une liste déroulante, popup de validation, ...)  | code, html, css
+|**env**| Aménagement de l'environnement de travail:<ul><li>Installation</li><li>Gestion les dépendances (npm, grunt, gulp, webpack, etc.)</li>| notes, fichier de configuration
+|**doc**| Ajout ou modification de documentation (README, JSdoc, ...)| documents
+|**test**| Ajout ou modification de tests, préparation de données de test | code, scripts, fichiers
+|**admin**| Travail administratif|  notes
+|**gp**| Gestion de projet, réunions | notes, documents
+|**appr**| Apprentissage, par lecture, visionnage de tuto vidée, explications par prof/pair| notes
+|**réunion**| Réunion | notes, PV
+|**divers**| Tout ce qui ne rentre pas dans ce qui précède | 
+
+Cette liste peut être complétée au besoin
 
 Le **scope** (la portée en français) indique les composants de notre projet qui sont touchés par le commit. Il est facultatif.
 
@@ -100,11 +104,11 @@ Exemples
 
 | Nom | Explication |
 |---|---|
-|`chore: Move pictures to own folder` | Un commit qui déplace une série d'images dans un sous dossier |
-| `chore(npm): Remove unused dependencies` | Ce commit supprime des références à des dépendances gérée par npm et dont on n'a plus besoin|
-|`feat(user):Save user's birthdate`| Ce commit rajoute au site la possibilité d'enregistrer la date de naissance d'un utilisateur.|
-|`doc(database):Change user-role relationship to n-m`|Ce commit contient une nouvelle version du MCD et du MLD dans laquelle  un utilisateur peut avoir plusieurs rôles|
-|`fix(CRUD company):Store address in long text`| Résolution d'un problème dans la gestion des adresses de compagnies : on ne parvenait pas à saisir une adresse de plus de 20 caractères|
-|`refactor(dates)Use moment.js`| Remplacement de calculs de date faits à la main par l'utilisation d'une librairie spécialisée dans la manipulation des dates|
+|`refact(pictures): Déplacer les images dans un répertoire dédié` | Un commit qui déplace une série d'images dans un sous dossier |
+|`env(npm): Supprimer des dépendances inutiles` | Ce commit supprime des références à des dépendances gérée par npm et dont on n'a plus besoin|
+|`code(user):Enregistrer la date d'anniversaire de l'utilisateur`| Ce commit rajoute au site la possibilité d'enregistrer la date de naissance d'un utilisateur.|
+|`doc(database):Changer la relation rôle-utilisateur en n-m`|Ce commit contient une nouvelle version du MCD et du MLD dans laquelle  un utilisateur peut avoir plusieurs rôles|
+|`fix(CRUD company):Stocker l'adresse dans un texte long`| Résolution d'un problème dans la gestion des adresses de compagnies : on ne parvenait pas à saisir une adresse de plus de 20 caractères|
+|`refact(dates)Utiliser moment.js`| Remplacement de calculs de date faits à la main par l'utilisation d'une librairie spécialisée dans la manipulation des dates|
 |`(typos)`| Corrections de simples fautes de frappe sans aucune influence sur quoi que ce soit|
-|`doc(Git):Add Conventional Naming to manual`| Ajoute une section qui explique le nommage des commits avec Git dans la documentation |
+|`doc(Git):Ajouter une référence à Convetional Commits`| Ajoute une section qui explique le nommage des commits avec Git dans la documentation |
