@@ -70,31 +70,22 @@ En quelques mots, le nom est constitué de trois parties:
 
 `type(scope): effet`
 
-Le **type** décrit l’origine du changement. Il doit être une des valeurs suivantes :
+Le **type** décrit l’origine du changement. Par convention de l'ETML, il doit être une des valeurs suivantes :
 
 | Type | Pour | Artefact
 |---|---|---|
-|**code**| Ajout d’une nouvelle fonctionnalité | code source
-|**refact**| Refactorisation: modification n’ajoutant pas de fonctionnalités ni de correction de bug (renommage d’une variable, suppression de code redondant, simplification du code, ...)| code source
-|**fix**| Correction d’un bug | code source
-|**UI**| Modification de l'apparence de l'interface utilisateur (couleurs, police de caractères, ...)| code, html, css
-|**UX**| Modification du fonctionnement de l'interface utilisateur (remplacement de boutons par une liste déroulante, popup de validation, ...)  | code, html, css
-|**env**| Aménagement de l'environnement de travail:<ul><li>Installation</li><li>Gestion les dépendances (npm, grunt, gulp, webpack, etc.)</li>| notes, fichier de configuration
+|**feat**| Ajout d’une nouvelle fonctionnalité | code source, script
+|**fix**| Correction d’un bug | code source, script
 |**doc**| Ajout ou modification de documentation (README, JSdoc, ...)| documents
-|**test**| Ajout ou modification de tests, préparation de données de test | code, scripts, fichiers
-|**admin**| Travail administratif|  notes
-|**gp**| Gestion de projet, réunions | notes, documents
-|**appr**| Apprentissage, par lecture, visionnage de tuto vidée, explications par prof/pair| notes
-|**réunion**| Réunion | notes, PV
-|**divers**| Tout ce qui ne rentre pas dans ce qui précède | 
-
-Cette liste peut être complétée au besoin
+|**meet**| Gestion de projet, réunions | notes, PV, documents
+|**learn**| Apprentissage, par lecture, visionnage de tuto vidée, explications par prof/pair| notes
+|**chore**| Tout ce qui ne rentre pas dans ce qui précède | 
 
 Le **scope** (la portée en français) indique les composants de notre projet qui sont touchés par le commit. Il est facultatif.
 
 L'**effet** décrit ce que fait le commit. Il s'agit là d'une phrase dans une forme active. Un bon moyen d’aide à sa formulation est de compléter l’une des deux phrases suivantes
-1. « Si on l’applique, ce commit va ... »
-2. « Si on applique ce commit, le système va ... »
+1. « Ce commit ... »
+2. « Après ce commit, le système ... »
 
 Le nom de votre commit est ce que vous mettriez à la place des points de suspension.
 
@@ -104,11 +95,11 @@ Exemples
 
 | Nom | Explication |
 |---|---|
-|`refact(pictures): Déplacer les images dans un répertoire dédié` | Un commit qui déplace une série d'images dans un sous dossier |
-|`env(npm): Supprimer des dépendances inutiles` | Ce commit supprime des références à des dépendances gérée par npm et dont on n'a plus besoin|
-|`code(user):Enregistrer la date d'anniversaire de l'utilisateur`| Ce commit rajoute au site la possibilité d'enregistrer la date de naissance d'un utilisateur.|
-|`doc(database):Changer la relation rôle-utilisateur en n-m`|Ce commit contient une nouvelle version du MCD et du MLD dans laquelle  un utilisateur peut avoir plusieurs rôles|
-|`fix(CRUD company):Stocker l'adresse dans un texte long`| Résolution d'un problème dans la gestion des adresses de compagnies : on ne parvenait pas à saisir une adresse de plus de 20 caractères|
-|`refact(dates)Utiliser moment.js`| Remplacement de calculs de date faits à la main par l'utilisation d'une librairie spécialisée dans la manipulation des dates|
+|`chore(pictures): Déplace les images dans un répertoire dédié` | Un commit qui déplace une série d'images dans un sous dossier |
+|`chore(npm): Supprime des dépendances inutiles` | Ce commit supprime des références à des dépendances gérée par npm et dont on n'a plus besoin|
+|`feat(user):Enregistre la date d'anniversaire de l'utilisateur`| Ce commit rajoute au site la possibilité d'enregistrer la date de naissance d'un utilisateur.|
+|`doc(database):Change la relation rôle-utilisateur en n-m`|Ce commit contient une nouvelle version du MCD et du MLD dans laquelle  un utilisateur peut avoir plusieurs rôles|
+|`fix(CRUD company):Stocke l'adresse dans un texte long`| Résolution d'un problème dans la gestion des adresses de compagnies : on ne parvenait pas à saisir une adresse de plus de 20 caractères|
+|`feat(dates)Utilise moment.js`| Remplacement de calculs de date faits à la main par l'utilisation d'une librairie spécialisée dans la manipulation des dates|
 |`(typos)`| Corrections de simples fautes de frappe sans aucune influence sur quoi que ce soit|
-|`doc(Git):Ajouter une référence à Convetional Commits`| Ajoute une section qui explique le nommage des commits avec Git dans la documentation |
+|`learn(Git):Lire un article sur la pratique Conventional Commits`| Apprentissage, qui se traduit concrètement par des notes personnelles et/ou une mise à jour du journal de travail |
