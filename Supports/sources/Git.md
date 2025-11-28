@@ -57,13 +57,15 @@ En effet, Git se rappelle de (presque) tout !
 
 Admettons que j’aie un fichier ‘tulipe.png’ qui est à jour partout (remote, local ETML, local maison). Je le modifie à l’ETML et je fais commit / push. Le tulipe.png du local à la maison est en retard. Si j’oublie de faire pull à la maison, que je modifie le fichier et que je fais commit puis push, Github va refuser le push parce que mes modifications n’ont pas été faites sur la dernière version de tulipe.png.
 
-## Nommage et contenu des commits
-Pour profiter pleinement des avantages de l’outil, il convient de bien faire ses commits. Il y a deux pratiques fondamentales à suivre :
+## Contenu des commits
+Pour profiter pleinement des avantages de l’outil, il convient de bien faire ses commits.  
+Il y a deux pratiques fondamentales à suivre, la première est de
 
-1. Faire des commits **atomiques**
-2. Bien **nommer** les commits
+> Faire des commits **atomiques**
 
-Un commit atomique couvre entièrement et uniquement une tâche. Exemple : Vous devez ajouter une information à saisir dans un formulaire de l’application que vous développez. Cela implique de modifier plusieurs fichiers : MLD, script de base de données, formulaire, SQL. Faites un seul commit qui contient tous ces fichiers et rien que ces fichiers.
+Un commit atomique couvre entièrement et uniquement un seul changement logique.  
+
+Exemple : Vous devez ajouter une information à saisir dans un formulaire de l’application web que vous développez. Cela implique de modifier plusieurs fichiers : MLD, script de base de données ( ou migration), formulaire, SQL dans le code. Faites un seul commit qui contient tous ces fichiers et rien que ces fichiers.
 
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) est une convention très répandue pour bien nommer vos commits.  
 En quelques mots, le nom est constitué de trois parties:
