@@ -63,45 +63,66 @@ Il y a deux pratiques fondamentales à suivre, la première est de
 
 > Faire des commits **atomiques**
 
-Un commit atomique couvre entièrement et uniquement un seul changement logique.  
+Définition: Un commit est atomique quand il couvre entièrement et uniquement un seul changement logique.  
 
-Exemple : Vous devez ajouter une information à saisir dans un formulaire de l’application web que vous développez. Cela implique de modifier plusieurs fichiers : MLD, script de base de données ( ou migration), formulaire, SQL dans le code. Faites un seul commit qui contient tous ces fichiers et rien que ces fichiers.
+Exemple :  
+![](./gitatomiccommit.png)
 
-[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) est une convention très répandue pour bien nommer vos commits.  
-En quelques mots, le nom est constitué de trois parties:
+Ce commit implique deux fichiers source, mais ne concerne qu'une seule chose: l'ajout d'une fonctionnalité de réinitialisation par un bouton.
 
-`type(scope): effet`
+## Nommage des commits
+La seconde bonne pratique consiste à
 
-Le **type** décrit l’origine du changement. Par convention de l'ETML, il doit être une des valeurs suivantes :
+> Bien nommer les commits
 
-| Type | Pour | Artefact
-|---|---|---|
-|**feat**| Ajout d’une nouvelle fonctionnalité | code source, script
-|**fix**| Correction d’un bug | code source, script
-|**doc**| Ajout ou modification de documentation (README, JSdoc, ...)| documents
-|**meet**| Gestion de projet, réunions | notes, PV, documents
-|**learn**| Apprentissage, par lecture, visionnage de tuto vidée, explications par prof/pair| notes
-|**chore**| Tout ce qui ne rentre pas dans ce qui précède | 
+ À l'ETML, nous nous appuyions sur une convention très répandue : les [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).  
+Son principe est donner un nom constitué de trois parties:
 
-Le **scope** (la portée en français) indique les composants de notre projet qui sont touchés par le commit. Il est facultatif.
+`activité(objet): effet`
 
-L'**effet** décrit ce que fait le commit. Il s'agit là d'une phrase dans une forme active. Un bon moyen d’aide à sa formulation est de compléter l’une des deux phrases suivantes
-1. « Ce commit ... »
-2. « Après ce commit, le système ... »
+L'**activité** décrit le type de tâche. 
 
-Le nom de votre commit est ce que vous mettriez à la place des points de suspension.
+L'**objet** ("scope" en anglais) indique le ou les composants de notre projet qui sont touchés par le commit.
+
+L'**effet** décrit ce que fait le commit.
+
+Pour identifier les trois éléments dans le contexte de votre commit, adaptez la phrase suivante à votre commit :
+
+> J'ai (activité) le (objet). L'effet de ce commit est de (effet)
+
+Dans l'exemple ci-dessus, la phrase deviendrait:
+
+> j'ai **modifié** l'**expérience utilisateur**. L'effet de ce commit est d'**ajouter un bouton "réinitialiser"**.
+
+Par convention de l'ETML, l'activité doit être une des valeurs suivantes (choisie selon le verbe utilisé au début de la phrase) :
+
+| Verbe                                           | Type      | Pour                                                                             | Artefact             |
+| ----------------------------------------------- | --------- | -------------------------------------------------------------------------------- | -------------------- |
+| modifier, ajouter, créer, coder, compléter, ... | **feat**  | Ajout d’une nouvelle fonctionnalité                                              | code source, script  |
+| corriger, réparer, ...                          | **fix**   | Correction d’un bug                                                              | code source, script  |
+| documenter, expliquer,...                       | **doc**   | Ajout ou modification de documentation (README, JSdoc, ...)                      | documents            |
+| discuter, revoir, débattre,...                  | **meet**  | Gestion de projet, réunions                                                      | notes, PV, documents |
+| consulter, lire, regarder,...                   | **learn** | Apprentissage, par lecture, visionnage de tuto vidée, explications par prof/pair | notes                |
+|                                                 | **chore** | Tout ce qui ne rentre pas dans ce qui précède                                    |
+
+Donc dans notre exemple :
+
+> modifié -> feat
+> expérience utilisateur -> UX
+>
+> Nom du commit: feat(ux): ajouter button "reinitialiser"
 
 Il peut arriver qu’un commit n’apporte rien de véritablement significatif : correction de fautes d’orthographe, mise en page, détail cosmétique, ... Dans ce cas, épargnez-vous la peine de trouver nom significatif et mettez un simple terme entre parenthèses : (orthographe), (cosmétique), ...
 
-Exemples
+Autres exemples de noms de commit
 
-| Nom | Explication |
-|---|---|
-|`chore(pictures): Déplace les images dans un répertoire dédié` | Un commit qui déplace une série d'images dans un sous dossier |
-|`chore(npm): Supprime des dépendances inutiles` | Ce commit supprime des références à des dépendances gérée par npm et dont on n'a plus besoin|
-|`feat(user):Enregistre la date d'anniversaire de l'utilisateur`| Ce commit rajoute au site la possibilité d'enregistrer la date de naissance d'un utilisateur.|
-|`doc(database):Change la relation rôle-utilisateur en n-m`|Ce commit contient une nouvelle version du MCD et du MLD dans laquelle  un utilisateur peut avoir plusieurs rôles|
-|`fix(CRUD company):Stocke l'adresse dans un texte long`| Résolution d'un problème dans la gestion des adresses de compagnies : on ne parvenait pas à saisir une adresse de plus de 20 caractères|
-|`feat(dates)Utilise moment.js`| Remplacement de calculs de date faits à la main par l'utilisation d'une librairie spécialisée dans la manipulation des dates|
-|`(typos)`| Corrections de simples fautes de frappe sans aucune influence sur quoi que ce soit|
-|`learn(Git):Lire un article sur la pratique Conventional Commits`| Apprentissage, qui se traduit concrètement par des notes personnelles et/ou une mise à jour du journal de travail |
+| Nom                                                               | Explication                                                                                                                             |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `chore(pictures): Déplace les images dans un répertoire dédié`    | Un commit qui déplace une série d'images dans un sous dossier                                                                           |
+| `chore(npm): Supprime des dépendances inutiles`                   | Ce commit supprime des références à des dépendances gérée par npm et dont on n'a plus besoin                                            |
+| `feat(user):Enregistre la date d'anniversaire de l'utilisateur`   | Ce commit rajoute au site la possibilité d'enregistrer la date de naissance d'un utilisateur.                                           |
+| `doc(database):Change la relation rôle-utilisateur en n-m`        | Ce commit contient une nouvelle version du MCD et du MLD dans laquelle  un utilisateur peut avoir plusieurs rôles                       |
+| `fix(CRUD company):Stocke l'adresse dans un texte long`           | Résolution d'un problème dans la gestion des adresses de compagnies : on ne parvenait pas à saisir une adresse de plus de 20 caractères |
+| `feat(dates)Utilise moment.js`                                    | Remplacement de calculs de date faits à la main par l'utilisation d'une librairie spécialisée dans la manipulation des dates            |
+| `(typos)`                                                         | Corrections de simples fautes de frappe sans aucune influence sur quoi que ce soit                                                      |
+| `learn(Git):Lire un article sur la pratique Conventional Commits` | Apprentissage, qui se traduit concrètement par des notes personnelles et/ou une mise à jour du journal de travail                       |
