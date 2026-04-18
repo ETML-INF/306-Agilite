@@ -90,27 +90,24 @@ Pour identifier les trois éléments dans le contexte de votre commit, adaptez l
 
 > J'ai (activité) le (objet). L'effet de ce commit est de (effet)
 
-Dans l'exemple ci-dessus, la phrase deviendrait:
-
-> j'ai **modifié** l'**expérience utilisateur**. L'effet de ce commit est d'**ajouter un bouton "réinitialiser"**.
-
 Par convention de l'ETML, l'activité doit être une des valeurs suivantes (choisie selon le verbe utilisé au début de la phrase) :
 
-| Verbe                                           | Type      | Pour                                                                             | Artefact             |
-| ----------------------------------------------- | --------- | -------------------------------------------------------------------------------- | -------------------- |
-| modifier, ajouter, créer, coder, compléter, ... | **feat**  | Ajout d’une nouvelle fonctionnalité                                              | code source, script  |
-| corriger, réparer, ...                          | **fix**   | Correction d’un bug                                                              | code source, script  |
-| documenter, expliquer,...                       | **doc**   | Ajout ou modification de documentation (README, JSdoc, ...)                      | documents            |
-| discuter, revoir, débattre,...                  | **meet**  | Gestion de projet, réunions                                                      | notes, PV, documents |
-| consulter, lire, regarder,...                   | **learn** | Apprentissage, par lecture, visionnage de tuto vidée, explications par prof/pair | notes                |
-|                                                 | **chore** | Tout ce qui ne rentre pas dans ce qui précède                                    |
+| Verbe                                           | Type           | Pour                                                                             | Artefact             |
+| ----------------------------------------------- | -------------- | -------------------------------------------------------------------------------- | -------------------- |
+| ajouter, créer, coder, compléter, ...           | **feat**       | Ajout d’une nouvelle fonctionnalité                                              | code source, script  |
+| corriger, réparer, ...                          | **fix**        | Correction d’un bug                                                              | code source, script  |
+| modifier, remplacer, changer, ...               | **refactor**   | Modification de code qui ne change pas la fonctionnalité                         | code source, script  |
+| documenter, expliquer,...                       | **doc**        | Ajout ou modification de documentation (README, JSdoc, ...)                      | documents            |
+| discuter, revoir, débattre,...                  | **meet**       | Gestion de projet, réunions                                                      | notes, PV, documents |
+| consulter, lire, regarder,...                   | **learn**      | Apprentissage, par lecture, visionnage de tuto vidée, explications par prof/pair | notes                |
+|                                                 | **chore**      | Tout ce qui ne rentre pas dans ce qui précède                                    |
 
-Donc dans notre exemple :
+Donc dans notre exemple : j'ai **complété** l'**expérience utilisateur**. L'effet de ce commit est d'**ajouter un bouton "réinitialiser"**.
 
-> modifié -> feat
+> complété -> feat  
 > expérience utilisateur -> UX
 >
-> Nom du commit: feat(ux): ajouter button "reinitialiser"
+> et donc, nom du commit -> `feat(UX): ajouter button "reinitialiser"`
 
 Il peut arriver qu’un commit n’apporte rien de véritablement significatif : correction de fautes d’orthographe, mise en page, détail cosmétique, ... Dans ce cas, épargnez-vous la peine de trouver nom significatif et mettez un simple terme entre parenthèses : (orthographe), (cosmétique), ...
 
